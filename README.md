@@ -29,3 +29,6 @@ Cargos Ocupados na empresa:
 [Portfólio](https://github.com/ronaldsouza77?tab=repositories)
 
 [Linkedln](https://www.linkedin.com/in/ronald-souza77/)
+
+
+![Desenvolvedor](Avatar/dev.jpg)
